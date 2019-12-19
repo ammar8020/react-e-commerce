@@ -1,5 +1,9 @@
 # React E-commerce Web App
 
+>  Single Page Application (SPA)
+
+An E-commerce web app built with React, Redux, Firebase and NodeJS
+
 ## App Info
 
 ### Author
